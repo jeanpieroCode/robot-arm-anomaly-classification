@@ -1,0 +1,17 @@
+# Data (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pkl
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
